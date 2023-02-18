@@ -1,0 +1,17 @@
+.accio{
+	height: 150px;
+	width: 150px;
+	background-color: black;
+    border-top:10px dotted green;
+    border-right:10px solid red;
+    border-left:10px dotted yellow;
+    border-bottom:10px dashed orange;
+    margin:30px 20px 30px 10px;
+
+}
+p{
+	color: white;
+	/*margin-left: 32px;*/
+	padding: 10px;
+    border:10px dotted red;
+}
